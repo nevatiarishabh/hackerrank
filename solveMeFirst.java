@@ -18,13 +18,13 @@ b is the second integer input
 Return values
 
 sum of the above two integers
+-------
 */
 public class Solution {
 
 
 
     static int solveMeFirst(int a, int b) {
-      // Hint: Type return a+b; below
       
 	}
 
